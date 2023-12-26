@@ -1,4 +1,4 @@
-package com.study.demo.EmployeeDirectoryServices;
+package com.study.demo.employees;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
